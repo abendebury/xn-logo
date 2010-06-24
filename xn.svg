@@ -863,7 +863,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.77187"
      inkscape:cx="256.401"
-     inkscape:cy="407.641"
+     inkscape:cy="430.216"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -917,20 +917,10 @@
        id="path3682" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#eeeeec;stroke:#0000ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 147.275,757.548 152.275,683.976 172.275,508.976 222.275,268.976 247.275,238.976 272.275,223.976 242.275,333.976 212.275,453.976 192.275,578.976 172.275,768.976 147.275,757.548 z"
-       id="path3698" />
-    <path
-       inkscape:connector-curvature="0"
        style="fill:#eeeeec;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 387.275,543.976 337.275,608.976 292.275,623.976 282.275,613.976 272.275,588.976 262.275,543.976"
        id="path3700"
        sodipodi:nodetypes="cccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#eeeeec;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 251.918,624.333 262.275,623.976 287.275,643.976 292.275,678.976 297.275,648.976 312.275,638.976 332.275,628.976 352.275,633.976 362.275,638.976"
-       id="path3702" />
     <path
        style="fill:#eeeeec;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 245.983,786.392 C 236.565,779.345 235.123,768.308 234.599,756.814 L 247.275,748.976 272.275,723.976 332.275,748.976 372.275,743.976 392.275,733.976 C 374.78,758.456 376.778,764.79 374.275,794.055 L 315.908,785.184 282.275,753.976 277.275,748.976 272.275,758.976 257.275,778.976 245.983,786.392 257.275,823.976 277.275,808.976 282.275,793.976 297.275,803.976 377.275,818.976"
@@ -961,7 +951,7 @@
     <path
        id="path3716"
        style="fill:url(#linearGradient3836);stroke:url(#linearGradient3851);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 532.275,628.976 C 515.784,592.43 482.275,588.412 482.275,588.412 426.989,585.769 397.391,617.335 387.275,658.976 381.267,705.635 388.138,701.565 397.275,728.976 443.804,750.074 479.146,740.1 512.275,723.976 533.075,695.61 545.017,657.621 532.275,628.976 z"
+       d="M 532.275,628.976 C 515.784,592.43 482.275,588.412 482.275,588.412 426.989,585.769 397.391,617.335 387.275,658.976 381.267,705.635 397.275,728.976 397.275,728.976 443.804,750.074 479.146,740.1 512.275,723.976 533.075,695.61 545.017,657.621 532.275,628.976 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
@@ -970,7 +960,7 @@
        d="M 815.189,1057.61 C 772.4,1057.61 737.713,1092.29 737.713,1135.08 737.713,1177.87 772.4,1212.56 815.189,1212.56 857.977,1212.56 892.666,1177.87 892.666,1135.08 892.666,1092.29 857.977,1057.61 815.189,1057.61 z"
        id="BackgroundGlow" />
     <g
-       transform="matrix(0.517433,0,-0.200872,0.517433,-126.684,386.25)"
+       transform="matrix(0.517433,0,-0.10145,0.517433,-178.199,386.25)"
        id="Ring-9">
       <path
          id="RingGlow-1"
@@ -994,6 +984,11 @@
        style="fill:#eeeeec;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 262.275,543.976 287.275,573.976 327.275,558.976 362.275,538.976 382.275,508.976 402.275,483.976 412.275,453.976 407.275,413.976 382.275,373.976 357.275,358.976 297.275,363.976 272.275,383.976 252.275,418.976 247.275,453.976 247.275,503.976 262.275,543.976 z"
        id="path3678" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#eeeeec;stroke:#0000ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 147.275,757.548 152.275,683.976 172.275,508.976 222.275,268.976 247.275,238.976 272.275,223.976 242.275,333.976 212.275,453.976 192.275,578.976 172.275,768.976 147.275,757.548 z"
+       id="path3698" />
   </g>
   <g
      inkscape:groupmode="layer"
