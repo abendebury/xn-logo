@@ -315,16 +315,6 @@
        inkscape:collect="always" />
     <filter
        color-interpolation-filters="sRGB"
-       inkscape:label="BlurGlowRing"
-       id="filter3675"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3677"
-         stdDeviation="9.994378"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
        inkscape:label="BlurGlowPhoenix"
        id="filter3852"
        inkscape:collect="always">
@@ -342,34 +332,6 @@
        id="linearGradient3836-1"
        xlink:href="#linearGradient3699"
        inkscape:collect="always" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:label="BlurShadowLetters"
-       height="1.264000058174133"
-       y="-0.1319999992847443"
-       width="1.150857090950012"
-       x="-0.07542856782674789"
-       id="filter3806"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3808"
-         stdDeviation="6.16"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:label="BlurGlowLetters"
-       height="1.257142901420593"
-       y="-0.1285714358091354"
-       width="1.153191447257996"
-       x="-0.07659574598073959"
-       id="filter3766"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3768"
-         stdDeviation="6"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="384"
@@ -905,9 +867,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7875"
-     inkscape:cx="278.912"
-     inkscape:cy="426.823"
+     inkscape:zoom="1.77187"
+     inkscape:cx="272.203"
+     inkscape:cy="430.216"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -928,7 +890,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -936,17 +898,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-39.7126,-218.645)">
+     transform="translate(-39.7126,-218.645)"
+     style="display:inline">
     <path
-       inkscape:connector-curvature="0"
        style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 262.275,578.976 242.275,613.976 212.275,658.976 207.275,698.976 207.275,718.976 217.275,738.976 232.275,753.976 237.275,778.976 247.275,788.976 252.275,813.976 267.275,853.976 267.275,868.976 382.275,828.976 372.275,793.976 377.275,758.976 397.275,728.976 387.275,698.976 387.275,658.976 412.275,608.976 447.275,588.976 482.275,588.976 457.275,568.976 397.275,543.976 262.275,543.976 227.275,553.976 192.275,578.976 152.275,628.976 97.2751,653.976 77.2751,683.976 47.2751,713.976 42.2751,793.976 82.2751,828.976 97.2751,833.976 127.275,853.976 147.275,858.976 182.275,858.976 192.275,823.976 192.275,793.976 177.275,773.976 142.275,758.976 132.275,743.976 137.275,728.976 192.275,728.976 207.275,718.976"
-       id="path2896" />
+       d="M 262.275,578.976 242.275,613.976 212.275,658.976 207.275,698.976 207.275,718.976 217.275,738.976 232.275,753.976 237.275,778.976 247.275,788.976 252.275,813.976 267.275,853.976 267.275,868.976"
+       id="path3225" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 482.275,588.976 512.275,603.976 532.275,628.976 537.275,658.976 522.275,708.976 512.275,723.976 512.275,763.976 487.275,823.976 472.275,858.976 462.275,888.976 382.275,923.976 337.275,923.976 227.275,948.976 157.275,948.976 122.275,938.976 107.275,923.976 107.275,883.976 112.275,868.976 127.275,858.976 182.275,858.976 192.275,868.976 202.275,893.976 232.275,888.976 267.275,868.976"
-       id="path2898" />
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 512.275,723.976 512.275,763.976 487.275,823.976 472.275,858.976 462.275,888.976 382.275,923.976 337.275,923.976 227.275,948.976 157.275,948.976 122.275,938.976 107.275,923.976 107.275,883.976 112.275,868.976 127.275,858.976 182.275,858.976 192.275,868.976 202.275,893.976 232.275,888.976 267.275,868.976 382.275,828.976 372.275,793.976 377.275,758.976 397.275,728.976"
+       id="path3231" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 482.275,588.976 457.275,568.976 397.275,543.976 262.275,543.976 227.275,553.976 192.275,578.976 152.275,628.976 97.2751,653.976 77.2751,683.976 47.2751,713.976 42.2751,793.976 82.2751,828.976 97.2751,833.976 127.275,853.976 147.275,858.976 182.275,858.976 192.275,823.976 192.275,793.976 177.275,773.976 142.275,758.976 132.275,743.976 137.275,728.976 192.275,728.976 207.275,718.976"
+       id="path2896" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -963,11 +928,6 @@
        style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 482.454,833.976 482.275,893.976 512.275,943.976 582.275,1108.98 407.275,1148.98 362.275,1073.98 262.275,1153.98 47.2751,1113.98 72.2751,1088.98 142.275,1028.98 227.275,978.976 252.275,968.976 257.275,953.976 252.275,943.976"
        id="path3682" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 257.275,958.976 292.275,983.976 337.275,998.976 397.275,998.976 457.275,968.976 507.275,933.976 482.275,893.976 407.275,923.976 382.275,923.976"
-       id="path3684" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#0000ff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1006,10 +966,11 @@
        d="M 138.141,733.849 127.275,718.976 112.275,708.976"
        id="path3714" />
     <path
-       inkscape:connector-curvature="0"
+       id="path3716"
        style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 397.275,728.976 412.275,738.976 427.275,738.976 447.275,723.976 467.275,718.976 487.275,723.976 512.275,723.976"
-       id="path3716" />
+       d="M 522.275,708.976 537.275,658.976 532.275,628.976 512.275,603.976 482.275,588.976 447.275,588.976 412.275,608.976 387.275,658.976 387.275,698.976 397.275,728.976 412.275,738.976 427.275,738.976 447.275,723.976 467.275,718.976 487.275,723.976 512.275,723.976 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccc" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1031,8 +992,40 @@
        d="M 815.189,1057.61 C 772.4,1057.61 737.713,1092.29 737.713,1135.08 737.713,1177.87 772.4,1212.56 815.189,1212.56 857.977,1212.56 892.666,1177.87 892.666,1135.08 892.666,1092.29 857.977,1057.61 815.189,1057.61 z"
        id="BackgroundGlow" />
     <g
+       transform="matrix(0.517433,0,-0.200872,0.517433,-126.684,386.25)"
+       id="Ring-9">
+      <path
+         id="RingGlow-1"
+         d="M 969.281,396.281 C 925.981,416.811 896,460.923 896,512 896,582.656 953.344,640 1024,640 1094.66,640 1152,582.656 1152,512 1152,460.923 1122.02,416.811 1078.72,396.281 1112.89,415.467 1136,452.044 1136,494 1136,548.546 1096.94,594.017 1045.28,603.969 1038.39,605.297 1030,636 1024,636 1018,636 1009.61,605.297 1002.72,603.969 951.063,594.017 912,548.546 912,494 912,452.044 935.106,415.467 969.281,396.281 z"
+         style="fill:#1f7fff;fill-opacity:1;stroke:none;filter:url(#filter3675-90)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:url(#linearGradient4961-79);fill-opacity:1;stroke:none"
+         d="M 969.281,396.281 C 925.981,416.811 896,460.923 896,512 896,582.656 953.344,640 1024,640 1094.66,640 1152,582.656 1152,512 1152,460.923 1122.02,416.811 1078.72,396.281 1112.89,415.467 1136,452.044 1136,494 1136,548.546 1096.94,594.017 1045.28,603.969 1038.39,605.297 1030,636 1024,636 1018,636 1009.61,605.297 1002.72,603.969 951.063,594.017 912,548.546 912,494 912,452.044 935.106,415.467 969.281,396.281 z"
+         id="RingBorder-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:url(#linearGradient4998-1);fill-opacity:1;stroke:#00001f;stroke-width:1.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 924.437,436.406 C 908.475,457.398 899,483.594 899,512 899,579.695 952.819,634.885 1020,637 1012,630 1006,608 1002,607 948.966,596.77 909,550.02 909,494 909,473.019 914.623,453.34 924.437,436.406 z M 1123.56,436.406 C 1133.38,453.34 1139,473.019 1139,494 1139,550.02 1099.03,596.77 1046,607 1042,608 1036,630 1028,637 1095.18,634.885 1149,579.695 1149,512 1149,483.594 1139.52,457.398 1123.56,436.406 z"
+         id="RingBody-1"
+         sodipodi:nodetypes="csccsccsccsc"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Belt"
+     style="display:none">
+    <path
+       transform="translate(-39.7126,-218.645)"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 257.275,958.976 292.275,983.976 337.275,998.976 397.275,998.976 457.275,968.976 507.275,933.976 482.275,893.976 407.275,923.976 382.275,923.976"
+       id="path3684" />
+    <g
        id="g4945"
-       transform="matrix(0.622887,0,0,0.622887,-134.91,245.729)">
+       transform="matrix(0.622887,0,0,0.622887,-174.623,27.084)">
       <path
          transform="matrix(0.302643,0,0,0.302643,505.283,985.578)"
          style="fill:url(#linearGradient4955);fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3852)"
@@ -1079,31 +1072,6 @@
            sodipodi:nodetypes="csccsccsccsc"
            inkscape:connector-curvature="0" />
       </g>
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path2900"
-       d="M 482.275,588.976 512.275,603.976 532.275,628.976 537.275,658.976 522.275,708.976 512.275,723.976 512.275,763.976 487.275,823.976 472.275,858.976 462.275,888.976 382.275,923.976 337.275,923.976 227.275,948.976 157.275,948.976 122.275,938.976 107.275,923.976 107.275,883.976 112.275,868.976 127.275,858.976 182.275,858.976 192.275,868.976 202.275,893.976 232.275,888.976 267.275,868.976"
-       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <g
-       transform="matrix(0.517433,0,-0.200872,0.517433,-126.684,386.25)"
-       id="Ring-9">
-      <path
-         id="RingGlow-1"
-         d="M 969.281,396.281 C 925.981,416.811 896,460.923 896,512 896,582.656 953.344,640 1024,640 1094.66,640 1152,582.656 1152,512 1152,460.923 1122.02,416.811 1078.72,396.281 1112.89,415.467 1136,452.044 1136,494 1136,548.546 1096.94,594.017 1045.28,603.969 1038.39,605.297 1030,636 1024,636 1018,636 1009.61,605.297 1002.72,603.969 951.063,594.017 912,548.546 912,494 912,452.044 935.106,415.467 969.281,396.281 z"
-         style="fill:#1f7fff;fill-opacity:1;stroke:none;filter:url(#filter3675-90)"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:url(#linearGradient4961-79);fill-opacity:1;stroke:none"
-         d="M 969.281,396.281 C 925.981,416.811 896,460.923 896,512 896,582.656 953.344,640 1024,640 1094.66,640 1152,582.656 1152,512 1152,460.923 1122.02,416.811 1078.72,396.281 1112.89,415.467 1136,452.044 1136,494 1136,548.546 1096.94,594.017 1045.28,603.969 1038.39,605.297 1030,636 1024,636 1018,636 1009.61,605.297 1002.72,603.969 951.063,594.017 912,548.546 912,494 912,452.044 935.106,415.467 969.281,396.281 z"
-         id="RingBorder-6"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:url(#linearGradient4998-1);fill-opacity:1;stroke:#00001f;stroke-width:1.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="M 924.437,436.406 C 908.475,457.398 899,483.594 899,512 899,579.695 952.819,634.885 1020,637 1012,630 1006,608 1002,607 948.966,596.77 909,550.02 909,494 909,473.019 914.623,453.34 924.437,436.406 z M 1123.56,436.406 C 1133.38,453.34 1139,473.019 1139,494 1139,550.02 1099.03,596.77 1046,607 1042,608 1036,630 1028,637 1095.18,634.885 1149,579.695 1149,512 1149,483.594 1139.52,457.398 1123.56,436.406 z"
-         id="RingBody-1"
-         sodipodi:nodetypes="csccsccsccsc"
-         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
