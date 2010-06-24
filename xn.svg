@@ -882,11 +882,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.18125"
-     inkscape:cx="205.694"
-     inkscape:cy="504.653"
+     inkscape:cx="318.146"
+     inkscape:cy="387.263"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -926,12 +926,6 @@
        d="M 147.275,757.548 152.275,683.976 172.275,508.976 222.275,268.976 247.275,238.976 272.275,223.976 242.275,333.976 212.275,453.976 192.275,578.976 172.275,768.976 147.275,757.548 z"
        id="path3698" />
     <path
-       id="ForearmRight"
-       style="fill:url(#linearGradient3813);stroke:url(#linearGradient3821);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 136.803,729.074 127.275,718.976 112.275,708.976 M 133.514,738.976 112.275,723.976 92.2751,723.976 M 152.275,628.976 97.2751,653.976 77.2751,683.976 47.2751,713.976 42.2751,793.976 82.2751,828.976 97.2751,833.976 127.275,853.976 147.275,858.976 182.275,858.976 192.275,823.976 192.275,793.976 177.275,773.976 142.275,758.976 132.275,743.976 137.275,728.976 189.713,706.645 209.713,666.645"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccc" />
-    <path
        style="fill:#eeeeec;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="M 262.275,578.976 242.275,613.976 212.275,658.976 207.275,698.976 207.275,718.976 217.275,738.976 232.275,753.976 237.275,778.976 247.275,788.976 252.275,813.976 267.275,853.976 267.275,868.976"
        id="path3225"
@@ -941,8 +935,14 @@
        d="M 482.275,588.976 457.275,568.976 397.275,543.976 262.275,543.976 227.275,553.976 192.275,578.976 152.275,628.976"
        id="path3956" />
     <path
+       id="ForearmRight"
+       style="fill:url(#linearGradient3813);stroke:url(#linearGradient3821);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 136.803,729.074 C 130.183,720.307 129.259,720.965 120.275,714.976 M 152.275,628.976 97.2751,653.976 C 97.2751,653.976 49.7126,702.377 49.7126,736.645 49.7126,776.636 82.2751,828.976 82.2751,828.976 112.604,865.058 142.424,858.976 182.275,858.976 198.499,804.451 202.166,776.501 142.275,758.976 142.275,758.976 128.698,744.045 137.275,728.976 137.275,728.976 174.069,725.675 189.713,706.645 209.792,686.001 211.713,662.645 211.713,662.645"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
        style="fill:url(#linearGradient3950);stroke:url(#linearGradient3952);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 219.713,556.645 C 194.713,561.645 82.9735,618.518 89.7126,666.645 152.327,666.553 223.229,694.187 224.713,631.645 224.713,631.645 218.157,609.974 219.713,556.645 z"
+       d="M 219.713,556.645 C 194.713,561.645 119.713,586.645 84.7126,666.645 147.327,666.553 223.229,694.187 224.713,631.645 224.713,631.645 218.157,609.974 219.713,556.645 z"
        id="BicepRight"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -972,7 +972,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:url(#linearGradient3821);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 149.713,761.645 C 112.383,761.645 82.7394,800.586 104.713,838.645"
+       d="M 149.713,761.645 C 117.363,752.977 82.7394,810.586 104.713,848.645"
        id="path3708"
        sodipodi:nodetypes="cc" />
     <path
