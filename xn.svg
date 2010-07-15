@@ -877,24 +877,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3821"
        id="linearGradient2994"
-       gradientTransform="matrix(1.25463,0,0,0.797048,2,2)"
+       gradientTransform="matrix(1.25463,0,0,0.797048,22,52)"
        x1="182.192"
        y1="908.8"
        x2="309.059"
        y2="908.8"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter8124"
-       x="-0.196612"
-       width="1.39322"
-       y="-0.0450945"
-       height="1.09019">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="10.2402"
-         id="feGaussianBlur8126" />
-    </filter>
     <filter
        inkscape:collect="always"
        id="filter8130"
@@ -915,9 +903,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.77187"
+     inkscape:zoom="1.65"
      inkscape:cx="264.96"
-     inkscape:cy="709.55"
+     inkscape:cy="325.775"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -964,9 +952,9 @@
        id="path3170"
        transform="translate(39.7126,218.645)"
        style="fill:url(#linearGradient3813);stroke:url(#linearGradient3821);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 169.501,446.242 192.828,427.618 M 131.61,430.648 150.562,358.331 C 176.821,335.938 190.997,334.35 222.562,325.331 L 357.562,325.331 C 384.238,328.33 433.125,342.264 450.945,373.219 L 439.265,390.186 442.562,675.331 472.562,725.331 542.562,890.335 367.562,930.335 322.562,855.335 222.562,935.335 7.5625,895.335 32.5625,870.335 102.562,810.335 187.562,760.331 212.562,750.331 217.562,735.331 212.562,725.331 227.562,650.331 C 229.303,630.37 221.78,617.28 212.562,595.331 189.811,545.278 168.104,489.248 169.819,445.904 z"
+       d="M 169.501,446.242 192.828,427.618 M 131.61,430.648 150.562,358.331 C 176.821,335.938 190.997,334.35 222.562,325.331 L 357.562,325.331 C 384.238,328.33 433.125,342.264 450.945,373.219 L 439.265,390.186 C 439.265,390.186 454.978,598.576 442.562,675.331 485.793,741.734 511.687,817.556 542.562,890.335 L 367.562,930.335 322.562,855.335 222.562,935.335 7.5625,895.335 C 36.8672,864.467 70.2973,837.991 102.562,810.335 119.323,791.871 231.318,754.358 225.543,725.895 L 223.611,650.895 C 223.611,650.895 222.345,643.805 201.839,600.41 179.088,550.357 168.104,489.248 169.819,445.904 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        id="path3700"
        style="fill:url(#linearGradient3836);stroke:url(#linearGradient3851);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -987,7 +975,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:url(#linearGradient2994);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 232.084,761.448 C 232.084,761.448 258.076,752.334 270.889,727.857 304.229,760.556 388.255,760.432 388.255,760.432 M 378.275,798.055 C 333.977,794.269 300.844,780.446 276.384,755.986 267.611,775.735 243.845,791.52 243.845,791.52 M 259.275,825.976 C 259.275,825.976 280.488,815.396 284.275,795.976 309.831,815.698 381.156,823.233 381.156,823.233"
+       d="M 244.084,815.448 C 244.084,815.448 278.076,802.334 290.889,777.857 324.229,810.556 408.255,810.432 408.255,810.432 M 398.275,848.055 C 353.977,844.269 320.844,830.446 296.384,805.986 287.611,825.735 253.845,847.52 253.845,847.52 M 269.275,879.976 C 269.275,879.976 300.488,865.396 304.275,845.976 329.831,865.698 401.156,873.233 401.156,873.233"
        id="Abdominals"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
