@@ -916,8 +916,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.77188"
-     inkscape:cx="84.3601"
-     inkscape:cy="631.573"
+     inkscape:cx="219.81"
+     inkscape:cy="654.148"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -981,10 +981,10 @@
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#eeeeec;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 387.275,541.976 337.275,606.976 292.275,621.976 282.275,611.976 272.275,586.976 262.275,541.976"
+       style="fill:url(#linearGradient3836);stroke:url(#linearGradient3851);stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 387.275,541.976 C 361.229,594.36 242.431,634.076 262.275,541.976"
        id="path3700"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cccccc"
        id="path8128"
