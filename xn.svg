@@ -873,6 +873,16 @@
        x2="256.626"
        y2="246.367"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3821"
+       id="linearGradient2994"
+       gradientTransform="matrix(1.25463,0,0,0.797048,2,2)"
+       x1="182.192"
+       y1="908.8"
+       x2="309.059"
+       y2="908.8"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -881,9 +891,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.65781"
-     inkscape:cx="256.593"
-     inkscape:cy="382.546"
+     inkscape:zoom="1.77188"
+     inkscape:cx="175.506"
+     inkscape:cy="496.123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -891,11 +901,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1074"
-     inkscape:window-height="586"
-     inkscape:window-x="590"
-     inkscape:window-y="167"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -953,12 +963,12 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#eeeeec;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 387.275,543.976 337.275,608.976 292.275,623.976 282.275,613.976 272.275,588.976 262.275,543.976"
+       d="M 387.275,541.976 337.275,606.976 292.275,621.976 282.275,611.976 272.275,586.976 262.275,541.976"
        id="path3700"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;stroke:url(#linearGradient3821);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 230.084,759.448 C 230.084,759.448 256.076,750.334 268.889,725.857 302.229,758.556 386.255,758.432 386.255,758.432 M 376.275,796.055 C 331.977,792.269 298.844,778.446 274.384,753.986 265.611,773.735 241.845,789.52 241.845,789.52 M 257.275,823.976 C 257.275,823.976 278.488,813.396 282.275,793.976 307.831,813.698 379.156,821.233 379.156,821.233"
+       style="fill:none;stroke:url(#linearGradient2994);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 232.084,761.448 C 232.084,761.448 258.076,752.334 270.889,727.857 304.229,760.556 388.255,760.432 388.255,760.432 M 378.275,798.055 C 333.977,794.269 300.844,780.446 276.384,755.986 267.611,775.735 243.845,791.52 243.845,791.52 M 259.275,825.976 C 259.275,825.976 280.488,815.396 284.275,795.976 309.831,815.698 381.156,823.233 381.156,823.233"
        id="Abdominals"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
@@ -977,11 +987,11 @@
     <path
        id="BicepLeft"
        style="fill:url(#linearGradient3836);stroke:url(#linearGradient3851);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 532.275,628.976 C 515.784,592.43 482.275,588.412 482.275,588.412 426.989,585.769 397.391,617.335 387.275,658.976 381.267,705.635 397.275,728.976 397.275,728.976 443.804,750.074 479.146,740.1 512.275,723.976 533.075,695.61 545.017,657.621 532.275,628.976 z"
+       d="M 532.275,628.976 C 515.784,592.43 482.275,588.412 482.275,588.412 426.989,585.769 397.391,617.335 387.275,658.976 381.267,705.635 397.275,728.976 397.275,728.976 411.427,739.035 438.349,740.458 438.349,740.458 L 448.036,730.976 466.554,728.976 473.423,738.245 C 473.423,738.245 499.798,730.049 512.275,723.976 533.075,695.61 545.017,657.621 532.275,628.976 z"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <g
-       transform="matrix(0.517433,0,-0.10145,0.517433,-178.199,386.25)"
+       transform="matrix(0.517433,0,-0.072518,0.517433,-185.571,412.493)"
        id="Ring-9">
       <path
          id="RingGlow-1"
